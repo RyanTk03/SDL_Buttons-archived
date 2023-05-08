@@ -1,0 +1,12 @@
+EXPORTS
+    BTN_CopyButton @1
+    BTN_CreateButton @2
+    BTN_FreeButton @3
+    BTN_HideButton @4
+    BTN_SetBackgroundColor @5
+    BTN_SetFont @6
+    BTN_SetHoveredColor @7
+    BTN_Setlabel @8
+    BTN_Update @9
+    BTN_setFontColor @10
+    SDL_CreateTextureFromPixel @11

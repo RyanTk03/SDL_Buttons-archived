@@ -1,0 +1,26 @@
+EXPORTS
+    BTN_BlitButton @1
+    BTN_ChangeBackgroundColor @2
+    BTN_ChangeButtonFont @3
+    BTN_ChangeButtonName @4
+    BTN_ChangeButtonRect @5
+    BTN_ChangeButtonType @6
+    BTN_ChangeEffectColor @7
+    BTN_ChangeFontColor @8
+    BTN_CopyButton @9
+    BTN_CreateButtonWithSurface @10
+    BTN_CreateButtonWithTexture @11
+    BTN_CreateImgResize @12
+    BTN_CreateSurfaceFromRenderer @13
+    BTN_CreateSurfaceFromTexture @14
+    BTN_FreeButton @15
+    BTN_RenderMouseClic @16
+    BTN_RenderMouseClicDown @17
+    BTN_RenderMouseClicUp @18
+    BTN_RenderMouseMotion @19
+    BTN_SetBackgroudImg @20
+    BTN_Stradd @21
+    BTN_SurfaceMouseClic @22
+    BTN_SurfaceMouseClicDown @23
+    BTN_SurfaceMouseClicUp @24
+    BTN_SurfaceMouseMotion @25
